@@ -1,6 +1,6 @@
 1. mengimport modul json .
-2. buka file messages.json, parse menggunakan json.load, dan simpan ke variable messages.
-3. buka file chats.json, parse menggunakan json.load, dan simpan ke variable chats.
+2. buka file chats.json, parse menggunakan json.load, dan simpan ke variable chats.
+3. buka file messages.json, parse menggunakan json.load, dan simpan ke variable messages.
 4. buat dictionary untuk menyimpan informasi channel berdasarkan channel_id; disini ambilah key title, sama username.
 5. dan jika tidak dapat menemukan key title dan username, maka kita tambahkan get (membantu menangani ketiadaan key)
 6. entitynya di sesuaikan id nya.
